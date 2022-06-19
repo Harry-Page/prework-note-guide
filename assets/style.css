@@ -6,8 +6,8 @@
 .card {
     width: 80%;
     margin: 40px auto;
-    border: 5px solid gray;
-    box-shadow: 5px 10px #888;
+    border: 5px solid #ece5c7;
+    box-shadow: 5px 10px #cdc2ae;
 }
 
 h1, h2 {
@@ -17,8 +17,8 @@ h1, h2 {
 header, footer {
     width: 100%;
     height: 120px;
-    background-color: blue;
-    color: white;
+    background-color: #354259;
+    color: #ece5c7;
 }
 
 img {
